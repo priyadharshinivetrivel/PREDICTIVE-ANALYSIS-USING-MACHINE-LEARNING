@@ -40,3 +40,8 @@ Regression Plot: Compares actual vs. predicted prices.
 Classification Heatmap: Displays confusion matrix for classification results.
 
 OUTPUT OF THE PICTURE:
+
+![Image](https://github.com/user-attachments/assets/e0fd9f49-a619-4f82-848a-2711923f49c4)
+
+![Image](https://github.com/user-attachments/assets/72748c48-983f-4443-92cf-d201a87b9fd7)
+![Image](https://github.com/user-attachments/assets/91b4768d-5b66-4a6e-8fcd-a93a23a7b261)
